@@ -1,0 +1,40 @@
+.contenedor {
+    margin: 1rem;
+    padding: 0;
+    box-sizing: border-box;
+    width: 600px;
+    background-color: #FF9500;
+    padding: auto;
+    border: 5px solid black;
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 1.5rem;
+    font-family: inherit;
+    vertical-align: baseline;
+    text-decoration: none;
+    list-style: none;
+
+}
+
+.contact-container {
+    font-size: 16px;
+    color: #fff;
+    height: 100%;
+    position: relative;
+    max-width: 1000px;
+    margin: auto;
+    background: #ccc;
+}
+
+.c_hora {
+    font-family: arial;
+    text-align: center;
+    margin-bottom: 5px;
+    background: rgba(0, 0, 0, .5);
+    padding: auto;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 2em;
+    text-align: center;
+    background: rgba(0, 0, 0, .5);
+    color: lime;
+}
